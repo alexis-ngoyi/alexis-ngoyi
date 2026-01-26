@@ -1,476 +1,99 @@
-<div>
-<p align="center"><a href="#"><img src="dance.gif" /></a>
+<div align="center">
+  <a href="#"><img src="dance.gif" width="100" /></a>
 
-  <p align="center"><a href="https://wakatime.com/@87ba5400-e128-4aec-a89d-85310b743b49"
-    ><img
-      src="https://wakatime.com/badge/user/87ba5400-e128-4aec-a89d-85310b743b49.svg"
-      alt="Total time coded since Sep 20 2022" /></a
-  ></p>
-  <p align="center">
-    <img
-      src="https://komarev.com/ghpvc/?username=alexis90210&label=Profile%20views&color=0e75b6&style=flat"
-      alt="alexis90210"
-    />
+  <p>
+    <a href="https://wakatime.com/@87ba5400-e128-4aec-a89d-85310b743b49">
+      <img src="https://wakatime.com/badge/user/87ba5400-e128-4aec-a89d-85310b743b49.svg" alt="Total time coded" />
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=alexis90210&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
   </p>
 
-  <p align="center"><a href="#"><img src="contributions.gif" /></a>
-  </p>
-<div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6; color: #333;">
-  <h2>👋 Salut, je suis <strong>Alexis Ngoyi M.</strong></h2>
-  <p>Développeur fullstack passionné basé à <strong>Congo-Brazzaville</strong>.</p>
-
-  <h3>💻 Compétences techniques</h3>
-  <ul>
-    <li><strong>Frontend :</strong> Vue.js, NuxtJS, ReactJS, Angular, TypeScript, Flutter</li>
-    <li><strong>Backend :</strong> PHP (Symfony, Laravel), Node.js (AdonisJS), Python</li>
-    <li><strong>Mobile :</strong> React Native, Flutter</li>
-    <li><strong>Outils :</strong> ElectronJS, Git, Docker, Firebase</li>
-  </ul>
-
-  <h3>🚀 Projets phares</h3>
-  <ul>
-    <li><strong>HBM</strong> – Système de gestion de bus et agences de voyage (Vue.js)</li>
-    <li><strong>Lekol</strong> – Plateforme de gestion scolaire (Vue.js)</li>
-    <li><strong>Mboka</strong> – Application e-commerce (Flutter)</li>
-    <li><strong>Employee Report Manager</strong> – Outil RH (TypeScript)</li>
-  </ul>
-
-  <h3>📫 À propos</h3>
-  <p>Actuellement chez <a href="https://qirah.com" target="_blank">CEO, QIRHA</a>, je suis toujours ouvert à de nouveaux défis, collaborations ou opportunités.</p>
-
-  <p>👉 N’hésite pas à explorer mes dépôts ou à me contacter pour discuter tech, projets ou innovation !</p>
+  <a href="#"><img src="contributions.gif" width="450" /></a>
 </div>
 
+<hr />
+
+<div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6;">
+  <h2>👋 Salut, je suis <strong>Alexis Ngoyi M.</strong></h2>
+  <p>
+    <strong>Développeur Fullstack & Expert IA Open Source</strong> basé au <strong>Congo-Brazzaville</strong>. 
+    Je conçois des architectures modernes et j'intègre des solutions d'intelligence artificielle souveraines, performantes et respectueuses de la confidentialité.
+  </p>
+
+  <h3>🧠 Intelligence Artificielle (Local & Open Source Stack)</h3>
+  <p><i>Déploiement de modèles avancés sans dépendance aux API tierces (No API Keys required).</i></p>
   
-
-  <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy"
-      ><img
-        src="https://github-profile-trophy.vercel.app/?username=alexis90210"
-        alt="alexis90210"
-    /></a>
-  </p>
-
-
-
-<center>
   
-  [![alexis90210's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hisoka_tegiro)](https://github.com/alexis90210/github-readme-stats)
-</center>
+  
+  <ul>
+    <li><strong>RAG & LLM Orchestration :</strong> Construction de pipelines avec <strong>LangChain</strong> et <strong>LlamaIndex</strong>.</li>
+    <li><strong>Modèles de Langage :</strong> Déploiement local via <strong>Ollama</strong>, <strong>vLLM</strong> et l'écosystème <strong>HuggingFace</strong>.</li>
+    <li><strong>Vector Databases :</strong> Indexation sémantique avec <strong>ChromaDB</strong>, <strong>FAISS</strong> et <strong>Qdrant</strong>.</li>
+    <li><strong>Audio & Vision :</strong> Transcription via <strong>Whisper</strong>, synthèse vocale avec <strong>Coqui TTS</strong>, et vision par ordinateur avec <strong>OpenCV</strong> & <strong>Torchvision</strong>.</li>
+  </ul>
 
-  <h3 align="center">Connect with me:</h3>
-  <p align="center">
-    <a href="https://linkedin.com/in/alexis ngoyi" target="blank"
-      ><img
-        align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-        alt="alexis ngoyi"
-        height="30"
-        width="40"
-    /></a>
-    <a href="https://stackoverflow.com/users/alexis mouss" target="blank"
-      ><img
-        align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-        alt="alexis mouss"
-        height="30"
-        width="40"
-    /></a>
-    <a href="https://fb.com/lix ng" target="blank"
-      ><img
-        align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-        alt="lix ng"
-        height="30"
-        width="40"
-    /></a>
-    <a href="https://instagram.com/alexis ngoyi" target="blank"
-      ><img
-        align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-        alt="alexis ngoyi"
-        height="30"
-        width="40"
-    /></a>
-    <a href="https://www.youtube.com/c/alexis ngoyi" target="blank"
-      ><img
-        align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-        alt="alexis ngoyi"
-        height="30"
-        width="40"
-    /></a>
-    <a href="https://www.hackerearth.com/alexis ngoyi" target="blank"
-      ><img
-        align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg"
-        alt="alexis ngoyi"
-        height="30"
-        width="40"
-    /></a>
-  </p>
+  <h3>💻 Compétences Fullstack</h3>
+  <ul>
+    <li><strong>Frontend :</strong> Vue.js (NuxtJS), ReactJS, Angular, TypeScript, Flutter</li>
+    <li><strong>Backend :</strong> Python (FastAPI, Flask), PHP (Symfony, Laravel), Node.js (AdonisJS)</li>
+    <li><strong>Mobile :</strong> Flutter, React Native (Android & iOS)</li>
+    <li><strong>Infrastructure :</strong> Docker, Git, Firebase, Linux (Administration serveur)</li>
+  </ul>
 
-  <p
-  align="center">
-    <img
-      src="https://github-readme-streak-stats.herokuapp.com/?user=alexis90210&theme=dracula"
-      alt="alexis90210"
-    />
-  </p>
+  <h3>🚀 Projets Phares</h3>
+  <ul>
+    <li><strong>HBM</strong> – Système intelligent de gestion de flux pour agences de voyage.</li>
+    <li><strong>Lekol</strong> – Plateforme de gestion scolaire avec automatisation des rapports.</li>
+    <li><strong>Mboka</strong> – Application e-commerce mobile optimisée pour le marché local.</li>
+    <li><strong>AI Assistant Manager</strong> – (Interne) Intégration de LLM locaux pour l'analyse de documents RH.</li>
+  </ul>
 
-  <h3 align="center">Languages and Tools:</h3>
-  <p align="center">
-    <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-        alt="android"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer">
-      <img
-        src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg"
-        alt="apachecordova"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-      <img
-        src="https://download.blender.org/branding/community/blender_community_badge_white.svg"
-        alt="blender"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-        alt="bootstrap"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://bulma.io/" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg"
-        alt="bulma"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-        alt="c"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://canvasjs.com" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg"
-        alt="canvasjs"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
-      <img
-        src="https://www.chartjs.org/media/logo-title.svg"
-        alt="chartjs"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-        alt="cplusplus"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-        alt="css3"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://dart.dev" target="_blank" rel="noreferrer">
-      <img
-        src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"
-        alt="dart"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-        alt="docker"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://www.electronjs.org" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"
-        alt="electron"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-        alt="express"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-      <img
-        src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-        alt="figma"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-      <img
-        src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-        alt="firebase"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-      <img
-        src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"
-        alt="flutter"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img
-        src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-        alt="git"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://heroku.com" target="_blank" rel="noreferrer">
-      <img
-        src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
-        alt="heroku"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-        alt="html5"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer">
-      <img
-        src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg"
-        alt="jasmine"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a
-      href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-      target="_blank"
-      rel="noreferrer"
-    >
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-        alt="javascript"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
-        alt="laravel"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-        alt="linux"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-        alt="mysql"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-        alt="nodejs"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
-      <img
-        src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg"
-        alt="nuxtjs"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://www.php.net" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
-        alt="php"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-        alt="postgresql"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://postman.com" target="_blank" rel="noreferrer">
-      <img
-        src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-        alt="postman"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-        alt="python"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-        alt="react"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-      <img
-        src="https://reactnative.dev/img/header_logo.svg"
-        alt="reactnative"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-      <img
-        src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"
-        alt="sqlite"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://symfony.com" target="_blank" rel="noreferrer">
-      <img
-        src="https://symfony.com/logos/symfony_black_03.svg"
-        alt="symfony"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
-        alt="vuejs"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer">
-      <img
-        src="https://bestofjs.org/logos/vuetify.svg"
-        alt="vuetify"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"
-        alt="webpack"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a
-      href="https://www.adobe.com/products/xd.html"
-      target="_blank"
-      rel="noreferrer"
-    >
-      <img
-        src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"
-        alt="xd"
-        width="40"
-        height="40"
-      />
-    </a>
+  <h3>📫 À propos & Contact</h3>
+  <p>
+    Actuellement <strong>CEO chez <a href="https://qirah.com" target="_blank">QIRHA</a></strong>. 
+    Passionné par l'innovation technologique, je suis ouvert aux collaborations sur des projets ambitieux.
   </p>
+  <p>👉 <strong>Exploration :</strong> N'hésite pas à parcourir mes dépôts pour voir mon code en action !</p>
+</div>
 
-  <p align="center">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=alexis90210&langs_count=12&show_icons=true&locale=en&layout=compact&theme=prussian"
-      alt="alexis90210"
-    />
-  </p>
+<hr />
+
+<div align="center">
+  <h3>📊 Statistiques & Activité</h3>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=alexis90210&theme=flat&column=7" alt="alexis90210" />
+  </a>
   <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=alexis90210&show_icons=true&locale=fr&theme=prussian" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexis90210&langs_count=10&show_icons=true&locale=fr&layout=compact&theme=prussian" alt="Top Langs" />
+</div>
 
-  <p align="center">
-    &nbsp;<img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api?username=alexis90210&show_icons=true&locale=en&theme=prussian"
-      alt="alexis90210"
-    />
+<div align="center">
+  <h3>🛠️ Stack Technique & Outils</h3>
+  <p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="python" />
+    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" height="40" alt="huggingface" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="pytorch" />
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40" alt="opencv" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40" height="40" alt="vuejs" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="react" />
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40" alt="flutter" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" width="40" height="40" alt="laravel" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="docker" />
   </p>
+</div>
 
-  <h3 align="center">Support:</h3>
-
-  <p align="center">
-    <a href="https://www.buymeacoffee.com/Alexis Ngoyi">
-      <img
-        align="center"
-        src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
-        height="50"
-        width="210"
-        alt="Alexis Ngoyi"
-    /></a>
+<div align="center">
+  <h3>🌐 Connect with me</h3>
+  <p>
+    <a href="https://linkedin.com/in/alexis-ngoyi" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+    <a href="https://stackoverflow.com/users/alexis-mouss" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="30" width="40" /></a>
+    <a href="https://fb.com/lix-ng" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
+    <a href="https://instagram.com/alexis-ngoyi" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
   </p>
-  <br>
-  <br>
+  
+  <br />
+  <a href="https://www.buymeacoffee.com/AlexisNgoyi">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me A Coffee" />
+  </a>
 </div>
