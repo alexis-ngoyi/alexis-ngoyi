@@ -42,9 +42,8 @@
 
   <h3>🚀 Projets Phares</h3>
   <ul>
-    <li><strong>HBM</strong> – Système intelligent de gestion de flux pour agences de voyage.</li>
-    <li><strong>Lekol</strong> – Plateforme de gestion scolaire avec automatisation des rapports.</li>
-    <li><strong>Mboka</strong> – Application e-commerce mobile optimisée pour le marché local.</li>
+    <li><strong>Sys842</strong> – Plateforme de gestion scolaire avec automatisation des rapports.</li>
+    <li><strong>Qirha</strong> – Application e-commerce mobile optimisée pour le marché local.</li>
     <li><strong>AI Assistant Manager</strong> – (Interne) Intégration de LLM locaux pour l'analyse de documents RH.</li>
   </ul>
 
