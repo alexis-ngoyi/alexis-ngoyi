@@ -60,11 +60,11 @@
 <div align="center">
   <h3>📊 Statistiques & Activité</h3>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=alexis90210&theme=flat&column=7" alt="alexis90210" />
+    <img src="https://github-profile-trophy.vercel.app/?username=alexis-ngoyi&theme=flat&column=7" alt="alexis-ngoyi" />
   </a>
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=alexis90210&show_icons=true&locale=fr&theme=prussian" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexis90210&langs_count=10&show_icons=true&locale=fr&layout=compact&theme=prussian" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alexis-ngoyi&show_icons=true&locale=fr&theme=prussian" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexis-ngoyi&langs_count=10&show_icons=true&locale=fr&layout=compact&theme=prussian" alt="Top Langs" />
 </div>
 
 <div align="center">
